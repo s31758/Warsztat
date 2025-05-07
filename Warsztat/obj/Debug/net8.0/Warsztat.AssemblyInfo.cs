@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Warsztat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2369bfe66055eb0ee83c71b5a50ac26adfd1b3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Warsztat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Warsztat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
